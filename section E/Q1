@@ -1,0 +1,6 @@
+mysql -u root -p
+Enter password:
+create database school;
+use school;
+create table students (id int primary key auto_increment,name varchar(30), grade varchar(10),subject varchar(15));
+

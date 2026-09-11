@@ -1,0 +1,3 @@
+class Emp{
+    id :number;
+}
